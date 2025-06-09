@@ -6,6 +6,9 @@ public class Categories{
 	private String description;
 	private String type;
 	private String status;
+	private String stDt;
+	private String etDt;
+
 	
 	
 }
