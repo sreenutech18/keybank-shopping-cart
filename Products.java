@@ -1,4 +1,7 @@
 package com.sreenutech;
+
+
+@Data
 public class Products{
 	
 	private String id;
@@ -6,6 +9,8 @@ public class Products{
 	private String desc;
 	private String imgUrl;
 	private String qty;
+	private boolean isOffer;
+
 	
 	
 }
