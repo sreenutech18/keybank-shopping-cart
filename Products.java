@@ -1,5 +1,6 @@
 package com.sreenutech;
 
+
 @Data
 public class Products{
 	
@@ -9,6 +10,7 @@ public class Products{
 	private String imgUrl;
 	private String qty;
 	private boolean isOffer;
+
 	
 	
 }
